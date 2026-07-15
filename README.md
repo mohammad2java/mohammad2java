@@ -23,15 +23,6 @@ A seasoned **Lead Software Engineer** with **12 years of experience** specializi
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="Your GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
