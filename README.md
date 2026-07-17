@@ -25,14 +25,9 @@ A seasoned **Lead Software Engineer** with **12 years of experience** specializi
 
 ### 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/amir87" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:amir87.tech@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Amir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir87/)
+
+[![Email](https://img.shields.io/badge/Email-amir87.tech%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amir87.tech@gmail.com)
 
 ---
 ⚡ *“Simplicity is the soul of efficiency.” — Austin Freeman*
